@@ -1,5 +1,5 @@
 import openai
-chave_api = "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"
+chave_api = "xyz"
 
 openai.api_key = chave_api
 
@@ -27,4 +27,3 @@ while True:
         lista_mensagens.append(resposta)
         print("Chatbot:", resposta["content"])
 
-#print(enviar_mensagem("Em que ano Einstein publicou a teoria geral da relatividade ?"))
