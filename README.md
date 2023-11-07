@@ -3,5 +3,5 @@ The most important goal of this exercise is to train a chatbot building. For thi
 
 Besides that make sure that you have open ai library installed in your IDE(e.g. Jupyter,Pycharm,VS Code).
 
-For this chatGPT works you just need to copy and paste the code and replace xyz to 
+For this chatGPT works you just need to copy and paste the code and replace xyz to the API key that you created.
 
